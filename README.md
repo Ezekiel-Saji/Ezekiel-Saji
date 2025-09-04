@@ -56,3 +56,10 @@ Welcome to my corner of the internet! I'm an aspiring **Software & AI Engineer**
 </div>
 
 ---
+## ✨ Quote of the Day  
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
